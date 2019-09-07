@@ -6,7 +6,7 @@ Every medium has value and graph. graph shows the direction of the values and in
 
 ## Here Demo.
 
-![](https://i.imgur.com/RkjHgxH.gif)
+![Demo](https://i.imgur.com/RkjHgxH.gifv)
 
 ## App is linked with firebase database and Supposing the these values are comming from IOT device.
 
