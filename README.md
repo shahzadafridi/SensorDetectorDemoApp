@@ -8,7 +8,7 @@ Every medium has value and graph. graph shows the direction of the values and in
 
 ![Demo](https://github.com/shahzadafridi/SensorDetectorDemoApp/blob/master/20190907_210537.gif?raw=true "Demo")
 
-## App is linked with firebase database and Supposing the these values are comming from IOT device.
+## App is linked with firebase database and Supposing that these values are comming from IOT device.
 
 ![Image 1](https://i.imgur.com/XKh0uE0.jpg)
 
