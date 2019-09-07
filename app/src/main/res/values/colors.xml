@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2C75A5</color>
+    <color name="colorPrimaryDark">#2C75A5</color>
+    <color name="colorAccent">#55CAB9</color>
+    <color name="app_color">#55CAB9</color>
+    <color name="reg_frag_btn">#55CAB9</color>
+    <color name="reg_frag_bg">#F8F5F5</color>
+
+    <color name="current">#55CAB9</color>
+    <color name="voltage">#3F51B5</color>
+    <color name="power">#4CAF50</color>
+    <color name="frequency">#FF9800</color>
+    <color name="phase">#FF5722</color>
+
+    <color name="black_overlay">#66000000</color>
+
+</resources>
